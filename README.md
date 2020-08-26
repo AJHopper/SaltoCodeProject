@@ -42,7 +42,7 @@ Add in better handling of errors and messages that a fed through as API response
 
 Add in better test case coverage, and potentially move tests away from using the default memory database to using an in memory version of sqlite
 
-Set up verying user groups to support different levels of access control - right now any users can set up door controls.
+Set up varying user groups to support different levels of access control - right now any users can set up door controls.
 
 ## Video demo of API
 https://youtu.be/QJyBq4mfQSw
